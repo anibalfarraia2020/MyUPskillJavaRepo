@@ -1,0 +1,32 @@
+﻿Ana Cristina Batista Pereira:  Curso de Programação em Assembler Motorola 68030
+André Filipe Oliveira Aguiar:  Curso de Programação em C#
+Anibal Rafael Monteiro Farraia:  Curso de Programação em Haskell
+Bárbara Do Sacramento Monteiro Leston Bandeira:  Curso de Word
+Caroline De Aguiar Duarte:  Curso de Autocad
+Diana Filipa Sequeira Pereira:  Curso de Programação em R
+Emanuel Jorge Cunha Barbosa:  Curso de Excel
+Helder Manuel Coelho Ferreira:  Curso de Excel Avançado
+João Antonio Pereira Iglesias:  Curso de Desenvolvimento de aplicações móveis
+João Diogo Tomaz Raposo:  Curso de PHP
+Julio Flavio Silva Sa:  Curso de Photoshop
+Marta Cristina Rodrigues Alves Silvestre:  Curso de Processamento de imagem
+Miguel António Carvalhal Mesquita Fernandes:  Curso de edição de vídeo
+Pedro Vieira Miguez:  Curso de Programação em Ruby
+Vitor Emanuel Simões Luis:  Curso de Programação orientada a objetos
+Amilcar Rafael Lopes Cerqueira:  Curso de Programação Funcional
+Ana Catarina Arnaud Hristoff:  Curso de Python
+Andrea Galambos:  Curso de Desenvolvimento de aplicações Web
+Bárbara Melo Bandeira:  Curso de Introdução às Bases de Dados
+Bruno Filipe Feição Cardoso Barbosa:  Curso de Aplicação de Metodologias Ágeis
+Daniel Afrânio Montes Rocha Junior:  Curso de Scrum
+Daniel Gomes Pina:  Curso de Programação em Basic
+Diana Catarina Capela Ferreira Ala De Matos:  Curso de UML
+Fernando Lourenço Miguel Crista:  Curso de Modelação Orientada ao Negócio
+João Miguel Monteiro Ribeiro:  Curso de Introdução ao Euphoria
+Jorge Alexandre Lopes Martins Aço:  Curso de Edição de Áudio
+Jorge Manuel Martins Pires:  Curso de Outlook
+Jose Nuno Melo Corado Carvalhais Fonseca:  Curso de Linux
+Lucas Pires Oliveira:  Curso de DevOps
+Marco Filipe Da Silva Pereira:  Curso de HTML 5
+Paulo Jorge Gomes Lima:  Curso de Matlab Avançado
+Vânia Isabel Vieira Figueira:  Curso de Programação com Restrições
