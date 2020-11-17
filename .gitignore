@@ -21,3 +21,14 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+target/maven-status/maven-compiler-plugin/compile/.DS_Store
+target/maven-status/maven-compiler-plugin/.DS_Store
+target/maven-status/.DS_Store
+target/classes/upskill/.DS_Store
+target/classes/.DS_Store
+target/.DS_Store
+src/main/java/upskill/.DS_Store
+src/main/java/.DS_Store
+src/main/.DS_Store
+src/.DS_Store
+.DS_Store
